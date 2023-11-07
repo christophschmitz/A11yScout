@@ -9,7 +9,7 @@ function TagCloud({ header, category }) {
     const [selectedTags, setSelectedTags] = useState(getSelectedTagsFromLocalStorage() || []);  // Initialer Wert aus dem LocalStorage
   
     useEffect(() => {
-      axios.get('http://localhost:5090/api/tags')
+      axios.get(`${process.env.REACT_APP_API_URL}/api/tags`)
         .then(response => {
           console.log("Daten von der API:", response.data);
           setTags(response.data);
