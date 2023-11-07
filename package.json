@@ -18,16 +18,20 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node server/server.js",
+    "heroku-postbuild": "npm run build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "server": "node server/server.js",
-    "client": "npm start",
+    "client": "npm start --prefix client",
     "start:frontend": "react-scripts start",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "proxy": "http://localhost:5090",
+  "engines": {
+    "node": "18.17.0"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
