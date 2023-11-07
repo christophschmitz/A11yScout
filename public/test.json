@@ -1,0 +1,282 @@
+[
+  {
+    "_id": "64cf4a967c74a5db79cf854b",
+    "category": "UI_Elements",
+    "name": "Farben"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf854c",
+    "category": "UI_Elements",
+    "name": "Buttons"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf854d",
+    "category": "UI_Elements",
+    "name": "Iconbuttons"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf854e",
+    "category": "UI_Elements",
+    "name": "Grafiken"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf854f",
+    "category": "UI_Elements",
+    "name": "Tabellen"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8550",
+    "category": "UI_Elements",
+    "name": "Formulare"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8551",
+    "category": "UI_Elements",
+    "name": "Texteingabefeld"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8552",
+    "category": "UI_Elements",
+    "name": "Tooltipps"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8553",
+    "category": "UI_Elements",
+    "name": "Menüs"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8554",
+    "category": "UI_Elements",
+    "name": "Bradcrumbs"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8555",
+    "category": "UI_Elements",
+    "name": "Überschriften"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8556",
+    "category": "UI_Elements",
+    "name": "Listen"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8557",
+    "category": "UI_Elements",
+    "name": "Töne"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8558",
+    "category": "UI_Elements",
+    "name": "Videoplayer"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8559",
+    "category": "UI_Elements",
+    "name": "Videos"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf855a",
+    "category": "UI_Elements",
+    "name": "Untertitel"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf855b",
+    "category": "UI_Elements",
+    "name": "Zitate"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf855c",
+    "category": "UI_Elements",
+    "name": "Layoutgrafiken"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf855d",
+    "category": "UI_Elements",
+    "name": "Texte"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf855e",
+    "category": "UI_Elements",
+    "name": "CAPTCHA"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf855f",
+    "category": "UI_Elements",
+    "name": "Ausklappmenüs"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8560",
+    "category": "UI_Elements",
+    "name": "Layouttabellen"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8561",
+    "category": "UI_Elements",
+    "name": "Informative Grafiken"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8562",
+    "category": "UI_Elements",
+    "name": "Schriftgrafiken"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8563",
+    "category": "UI_Elements",
+    "name": "Links"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8564",
+    "category": "UI_Elements",
+    "name": "Suchfunktion"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8565",
+    "category": "UI_Elements",
+    "name": "Akkordeons"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8566",
+    "category": "UI_Elements",
+    "name": "Header"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8567",
+    "category": "UI_Elements",
+    "name": "Footer"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8568",
+    "category": "UI_Elements",
+    "name": "Toasts"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8569",
+    "category": "UI_Elements",
+    "name": "Slideshows"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf856a",
+    "category": "Funktionen",
+    "name": "Druckfunktion"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf856b",
+    "category": "Funktionen",
+    "name": "Schriftvergrößerung"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf856c",
+    "category": "Funktionen",
+    "name": "Gebärdensprache"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf856d",
+    "category": "Funktionen",
+    "name": "Leichte Sprache"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf856e",
+    "category": "Funktionen",
+    "name": "Kontrastmodus"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf856f",
+    "category": "Funktionen",
+    "name": "Biometrie"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8570",
+    "category": "Funktionen",
+    "name": "Live Videos"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8571",
+    "category": "Funktionen",
+    "name": "Echtzeit RTT"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8572",
+    "category": "Funktionen",
+    "name": "interaktives Sprachdialogsystem"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8573",
+    "category": "Funktionen",
+    "name": "Videotelefonie"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8574",
+    "category": "Funktionen",
+    "name": "Voicemailfunktion"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8575",
+    "category": "Funktionen",
+    "name": "CMS"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8576",
+    "category": "Funktionen",
+    "name": "Audiodeskription"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8577",
+    "category": "Funktionen",
+    "name": "Videotelefonie"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8578",
+    "category": "Funktionen",
+    "name": "Auto-Aktualisisierung"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8579",
+    "category": "Funktionen",
+    "name": "Sitemap"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf857a",
+    "category": "Funktionen",
+    "name": "Sprachtelefonie"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf857b",
+    "category": "Funktionen",
+    "name": "Wischgesten"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf857c",
+    "category": "Funktionen",
+    "name": "Mehrpunkt Gesten"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf857d",
+    "category": "Funktionen",
+    "name": "Mehrsprachig"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf857e",
+    "category": "Funktionen",
+    "name": "onClick Elemente"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf857f",
+    "category": "Funktionen",
+    "name": "Bewegungseingaben (AR)"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8580",
+    "category": "Funktionen",
+    "name": "Tastaturkurzbefehle"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8581",
+    "category": "Funktionen",
+    "name": "Technischer Support"
+  },
+  {
+    "_id": "64cf4a967c74a5db79cf8582",
+    "category": "Funktionen",
+    "name": "Barrierefreiheitserklärung"
+  }
+]

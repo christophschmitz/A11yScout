@@ -1,0 +1,49 @@
+.container {
+    border-top: 1px solid #1E1E1E;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #1E1E1E;
+    /* Füge den unteren Rand hier hinzu */
+    padding-bottom: 10px;
+    /* Einen Abstand zum Rand hinzufügen, damit er nicht direkt am Text klebt */
+    margin-bottom: 10px;
+    padding: 24px 100px;
+}
+
+.title {
+    font-size: 16px;
+    color: #474747;
+}
+
+.description {
+    font-size: 24px;
+    color: #1E1E1E;
+    flex-grow: 1;
+    margin-right: 20px;  /* Abstand zwischen Beschreibung und IconButton */
+}
+
+.tagContainer {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;  /* Abstand zwischen den Tags */
+   padding: 0 100px;
+}
+.content {
+    display: flex;
+    justify-content: space-between;
+    /* Dies wird sicherstellen, dass der Button am rechten Rand ist */
+    align-items: center;
+    /* Vertikal zentriert, wenn benötigt */
+}
+
+.textContainer {
+    display: flex;
+    flex-direction: column;
+}

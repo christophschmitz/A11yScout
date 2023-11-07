@@ -1,0 +1,14 @@
+/* Tag.module.css */
+.tag {
+    border-radius: 50px;
+    border: 0.5px solid #242424;
+    background: #E8F1D6;
+    padding: 8px 12px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    display: inline-block;
+    /* Damit das Tag die Größe seines Inhalts annimmt und nebeneinander mit anderen Tags angezeigt werden kann */
+margin-bottom: 10px;
+    /* Ein bisschen Abstand zwischen den Tags, falls sie nebeneinander angezeigt werden */
+}

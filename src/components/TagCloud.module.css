@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px 40px; /* Der erste Wert ist für die vertikale Lücke, der zweite für die horizontale Lücke */
+    margin-bottom: 50px;
+    padding: 0 100px;
+}
+
+.header {
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+
+.outerContainer {
+    margin-bottom: 24px; /* oder den gewünschten Abstand */
+}
+
+.outerContainer h2 {
+    padding: 0 100px;
+}
