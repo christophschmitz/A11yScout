@@ -1,8 +1,14 @@
+// Laden Sie zuerst das dotenv-Paket
+require('dotenv').config();
+
 const mongoose = require('mongoose');
 
 const connectDB = async () => {
+  // Ersetzen Sie die Credentials durch Umgebungsvariablen
+  const dbURI = `mongodb+srv://${process.env.MONGO_USER}:${process.env.MONGO_PASS}@a11yscout.dtjj0vp.mongodb.net/${process.env.MONGO_DB}?retryWrites=true&w=majority`;
+
   try {
-    await mongoose.connect('mongodb+srv://A11yScout:<5m0ruEFcSBqQHPHL>@a11yscout.dtjj0vp.mongodb.net/?retryWrites=true&w=majority', {
+    await mongoose.connect(dbURI, {
       useNewUrlParser: true,
       useUnifiedTopology: true,
       useCreateIndex: true,
@@ -17,4 +23,3 @@ const connectDB = async () => {
 };
 
 module.exports = connectDB;
-
